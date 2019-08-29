@@ -16,7 +16,7 @@
    id="SVGRoot"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="banner.svg"
-   inkscape:export-filename="/home/benjamin/workspace/logo/compilationist/banner.png"
+   inkscape:export-filename="/home/benjamin/workspace/logo/compiler/banner.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1069.6069"
-     inkscape:cy="743.18742"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1871.511"
+     inkscape:cy="597.86353"
      inkscape:document-units="px"
-     inkscape:current-layer="g4753"
+     inkscape:current-layer="g3381"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1058"
@@ -52,7 +52,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:pagecheckerboard="false" />
   <metadata
      id="metadata866">
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -221,19 +221,19 @@
         <flowRoot
            xml:space="preserve"
            id="flowRoot3328"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:'Visby Round CF';-inkscape-font-specification:'Visby Round CF';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05111608;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           transform="matrix(3.0237177,0,0,3.0237177,-1661.8835,-1844.0323)"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:'Visby Round CF';-inkscape-font-specification:'Visby Round CF';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04917355;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           transform="matrix(3.1431653,0,0,3.1431654,-1734.946,-1929.7047)"><flowRegion
              id="flowRegion3330"
-             style="stroke-width:0.05111608"><rect
+             style="stroke-width:0.04917355"><rect
                id="rect3332"
                width="1021.4286"
                height="222.85715"
                x="841.42859"
                y="542.85712"
-               style="stroke-width:0.05111608" /></flowRegion><flowPara
+               style="stroke-width:0.04917355" /></flowRegion><flowPara
              id="flowPara3334"
-             style="stroke-width:0.05111608">COMPILATIONIST</flowPara></flowRoot>        <flowRoot
-           transform="matrix(1.5311114,0,0,1.5311114,1.6211956,-877.76532)"
+             style="stroke-width:0.04917355">COMPILER</flowPara></flowRoot>        <flowRoot
+           transform="matrix(1.5311114,0,0,1.5311114,-373.40367,-903.65906)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:'Visby Round CF';-inkscape-font-specification:'Visby Round CF';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10094666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="flowRoot3342"
            xml:space="preserve"><flowRegion
@@ -246,7 +246,7 @@
                width="1021.4286"
                id="rect3336" /></flowRegion><flowPara
              style="stroke-width:0.10094666"
-             id="flowPara3340">I make videos</flowPara></flowRoot>      </g>
+             id="flowPara3340">compilations n' stuff</flowPara></flowRoot>      </g>
     </g>
   </g>
 </svg>
